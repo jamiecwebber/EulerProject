@@ -15,8 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EulerProject.cpp">
+    <ClCompile Include="Euler001.h">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Euler002.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler003.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler004.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler005.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler006.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler007.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler008.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

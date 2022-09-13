@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EulerProject.cpp" />
+    <ClCompile Include="Euler001.h" />
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Euler002.h" />
+    <ClInclude Include="Euler003.h" />
+    <ClInclude Include="Euler004.h" />
+    <ClInclude Include="Euler005.h" />
+    <ClInclude Include="Euler006.h" />
+    <ClInclude Include="Euler007.h" />
+    <ClInclude Include="Euler008.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

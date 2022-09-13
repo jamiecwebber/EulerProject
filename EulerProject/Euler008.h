@@ -26,12 +26,15 @@ int compute008() {
 		.append("05886116467109405077541002256983155200055935729725")
 		.append("71636269561882670428252483600823257530420752963450");
 
-	//int check = 1;
+
+	long long check = 1;
 	for (int i = 0; i <= str.size() - 13; i++) {
-		long long check = 1;
-		for (int j = 0; j < 13; j++) {
-			check *= (int)str[i+j]-48; // convert char to int
-		}
+		//long long check = 1;
+		//for (int j = 0; j < 13; j++) {
+		if ((int)str[i] - 48 == 0) check = 0;
+		else check /= (int)str[i]-48; // convert char to int
+		check *= (int)str[i+12] - 48;
+		//}
 		if (check > result) {
 			result = check;
 			std::cout << i << " " << result << std::endl;

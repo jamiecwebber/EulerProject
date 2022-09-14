@@ -140,6 +140,10 @@
     <ClInclude Include="Euler008.h" />
     <ClInclude Include="Euler009.h" />
     <ClInclude Include="Euler010.h" />
+    <ClInclude Include="Euler011.h" />
+    <ClInclude Include="Euler012.h" />
+    <ClInclude Include="Euler013.h" />
+    <ClInclude Include="Euler014.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,6 +1,6 @@
-#include "Euler010.h"
+#include "Euler014.h"
 #include <iostream>
 
 int main() {
-	std::cout << compute010();
+	std::cout << compute014();
 }

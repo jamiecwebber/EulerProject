@@ -50,5 +50,17 @@
     <ClInclude Include="Euler010.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Euler011.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler012.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler013.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler014.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

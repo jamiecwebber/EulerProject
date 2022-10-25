@@ -74,5 +74,14 @@
     <ClInclude Include="Euler018.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Euler019.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler020.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler021.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

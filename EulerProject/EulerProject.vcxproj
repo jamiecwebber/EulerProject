@@ -153,6 +153,11 @@
     <ClInclude Include="Euler019.h" />
     <ClInclude Include="Euler020.h" />
     <ClInclude Include="Euler021.h" />
+    <ClInclude Include="Euler022.h" />
+    <ClInclude Include="Euler023.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="p022_names.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
